@@ -1,4 +1,4 @@
-# Jar Analyzer
+# Jar-Analyzer V2
 
 ![](https://img.shields.io/badge/build-passing-brightgreen)
 ![](https://img.shields.io/badge/build-Java%208-orange)
@@ -15,3 +15,9 @@
 - 一键生成方法的 `CFG` 分析结果
 - 一键生成方法的 `Stack Frame` 分析结果
 - 自定义 `SQL` 语句进行高级分析
+
+更多的功能正在开发中
+
+有问题和建议欢迎提 `issue`
+
+[前往下载](https://github.com/jar-analyzer/jar-analyzer/releases/latest)
