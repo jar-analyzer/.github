@@ -16,8 +16,6 @@
 - 一键生成方法的 `Stack Frame` 分析结果
 - 自定义 `SQL` 语句进行高级分析
 
-更多的功能正在开发中
-
-有问题和建议欢迎提 `issue`
-
-[前往下载](https://github.com/jar-analyzer/jar-analyzer/releases/latest)
+`Jar Analyzer` 子项目：
+- [Y4 JDK/JRE](https://github.com/jar-analyzer/jdk8u) 为 `Jar Analyzer` 提供定制的 `JRE` 环境
+- [Y4 JSON](https://github.com/jar-analyzer/y4-json) 为 `Jar Analyzer` 提供 `JSON` 序列化和反序列化
