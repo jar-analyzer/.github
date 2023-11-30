@@ -15,6 +15,3 @@
 - 一键生成方法的 `CFG` 分析结果
 - 一键生成方法的 `Stack Frame` 分析结果
 - 自定义 `SQL` 语句进行高级分析
-
-`Jar Analyzer` 子项目：
-- [Y4 JSON](https://github.com/jar-analyzer/y4-json) 为 `Jar Analyzer` 提供 `JSON` 序列化和反序列化
