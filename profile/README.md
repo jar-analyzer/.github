@@ -19,6 +19,6 @@
 项目
 
 - Jar Analyzer V2 (主要开发维护)
-- Jar Obfuscator (有空时开发维护)
+- Jar Obfuscator (精力不足不再维护)
 - Jar Analyzer V1 GUI (不再维护)
 - Jar Analyzer V1 CLI (不再维护)
