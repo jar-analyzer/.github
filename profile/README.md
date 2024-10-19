@@ -4,7 +4,8 @@
 
 - `JAR` 包分析工具
 - `SCA` 漏洞分析一键出报告
-- 一键搜索可能存在的安全漏洞的方法调用
+- 一键搜索可能存在安全漏洞的方法调用
+- 一键搜索各种常见的信息泄露
 - 批量分析 `JAR` 文件和目录
 - 方法调用关系搜索（`caller` 和 `callee`）
 - 字符串搜索（搜索 `ldc` 指令字符串包含）
@@ -18,7 +19,7 @@
 
 项目
 
-- Jar Analyzer V2 (主要开发维护)
-- Jar Obfuscator (精力不足不再维护)
-- Jar Analyzer V1 GUI (不再维护)
-- Jar Analyzer V1 CLI (不再维护)
+- Jar Analyzer V2 (主要开发维护，尽量保持长期更新)
+- Jar Obfuscator (精力不足，时间不足，不再维护)
+- Jar Analyzer V1 GUI (已有 V2 新版本，老版本不再维护)
+- Jar Analyzer V1 CLI (已有 V2 新版本，老版本不再维护)
