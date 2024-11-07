@@ -20,7 +20,7 @@
 项目
 
 - Jar Analyzer V2 (主要开发维护，尽量保持长期更新)
-- Class Obfuscator (但单个 CLASS 的混淆，开发规划中)
+- Class Obfuscator (对单个 CLASS 的混淆，开发规划中)
 - Jar Obfuscator (精力不足，时间不足，不再维护)
 - Jar Analyzer V1 GUI (已有 V2 新版本，老版本不再维护)
 - Jar Analyzer V1 CLI (已有 V2 新版本，老版本不再维护)
