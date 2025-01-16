@@ -1,5 +1,10 @@
 # Jar Analyzer
 
+成员
+
+- 4ra1n (https://github.com/4ra1n) 创始人 核心开发者
+- SpringKill (https://github.com/SpringKill) 核心开发者
+
 项目
 
 - [Jar Analyzer V2](https://github.com/jar-analyzer/jar-analyzer) (主要开发维护，尽量保持长期更新)
