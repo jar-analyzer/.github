@@ -3,6 +3,7 @@
 Jar Analyzer
 
 - 一个 `JAR` 包分析工具
+- 支持 `JAR DIFF` 深入分析源码变动（支持目录对比）
 - 完善美观的 `GUI` 支持（现代化 `Java GUI` 界面，可拖拽，明暗橙三主题，十种风格）
 - 基础分析（支持 `Jar/War/Classes` 输入，支持多文件，支持嵌套 `FatJar`）
 - 黑白名单配置（构建数据库和搜索功能都支持黑白名单过滤，支持精确类名和包名过滤）
@@ -22,7 +23,7 @@ Jar Analyzer
 项目
 
 - [Jar Analyzer V2](https://github.com/jar-analyzer/jar-analyzer) (主要开发维护，保持长期更新)
-- [Jar Analyzer Engine 核心引擎 CLI](https://github.com/jar-analyzer/jar-analyzer-engine)
-- [Jar Analyzer Claude 插件市场](https://github.com/jar-analyzer/jar-analyzer-claude)
+- [Jar Analyzer Engine 核心引擎 CLI](https://github.com/jar-analyzer/jar-analyzer-engine) (只修关键 `BUG` 不再更新功能)
+- [Jar Analyzer Claude 插件市场](https://github.com/jar-analyzer/jar-analyzer-claude) (只修关键 `BUG` 不再更新功能)
 - [Jar Analyzer V1 GUI](https://github.com/jar-analyzer/jar-analyzer-v1-gui) (已有 V2 新版本，老版本不再维护)
 - [Jar Analyzer V1 CLI](https://github.com/jar-analyzer/jar-analyzer-v1-cli) (已有 V2 新版本，老版本不再维护)
