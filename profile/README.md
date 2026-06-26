@@ -22,7 +22,3 @@ Jar Analyzer
 项目
 
 - [Jar Analyzer V2](https://github.com/jar-analyzer/jar-analyzer) (主要开发维护，保持长期更新)
-- [Jar Analyzer Engine 核心引擎 CLI](https://github.com/jar-analyzer/jar-analyzer-engine) (只修关键 `BUG` 不再更新功能)
-- [Jar Analyzer Claude 插件市场](https://github.com/jar-analyzer/jar-analyzer-claude) (只修关键 `BUG` 不再更新功能)
-- [Jar Analyzer V1 GUI](https://github.com/jar-analyzer/jar-analyzer-v1-gui) (已有 V2 新版本，老版本不再维护)
-- [Jar Analyzer V1 CLI](https://github.com/jar-analyzer/jar-analyzer-v1-cli) (已有 V2 新版本，老版本不再维护)
